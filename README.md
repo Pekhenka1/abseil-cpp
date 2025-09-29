@@ -8,7 +8,7 @@ standard library.
 
 - [About Abseil](#about)
 - [Quickstart](#quickstart)
-- [Building Abseil](#build)
+- [Building Abseil](#build)s
 - [Support](#support)
 - [Codemap](#codemap)
 - [Releases](#releases)
